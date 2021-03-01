@@ -1,0 +1,11 @@
+D:\Батя\Занятия\Старикова\WSMutovin\bin\Debug\WSMutovin.exe.config
+D:\Батя\Занятия\Старикова\WSMutovin\bin\Debug\WSMutovin.exe
+D:\Батя\Занятия\Старикова\WSMutovin\bin\Debug\WSMutovin.pdb
+D:\Батя\Занятия\Старикова\WSMutovin\obj\Debug\WSMutovin.csprojAssemblyReference.cache
+D:\Батя\Занятия\Старикова\WSMutovin\obj\Debug\WSMutovin.Form1.resources
+D:\Батя\Занятия\Старикова\WSMutovin\obj\Debug\WSMutovin.Properties.Resources.resources
+D:\Батя\Занятия\Старикова\WSMutovin\obj\Debug\WSMutovin.csproj.GenerateResource.cache
+D:\Батя\Занятия\Старикова\WSMutovin\obj\Debug\WSMutovin.csproj.CoreCompileInputs.cache
+D:\Батя\Занятия\Старикова\WSMutovin\obj\Debug\WSMutovin.exe
+D:\Батя\Занятия\Старикова\WSMutovin\obj\Debug\WSMutovin.pdb
+D:\Батя\Занятия\Старикова\WSMutovin\obj\Debug\WSMutovin.Form2.resources
